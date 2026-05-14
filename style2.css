@@ -1,0 +1,38 @@
+body {
+  background-color:#3b8aff;
+}
+
+}
+h1 {
+  font-weight: bold
+
+}
+h2 { 
+  color: #b0f2ff;
+  font-feature-settings: normal
+    font-weight: bold
+}
+
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap:wrap;
+
+}
+.myImage {
+  background-image: url("greatwhite.jpg");
+
+}
+
+img {
+  width: 200px;
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 30px;
+  margin: 22px;
+
+}
+ul {
+  margin-right: auto;
+  color: aliceblue
+}
